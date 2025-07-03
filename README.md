@@ -1,6 +1,6 @@
 My Name's Mustafa T.
 I am a skilled graphic designer and animator.
-I am also majoring in software engineering in UTM JB
+I am also majoring in software engineering in UTM JB.
 Im currently experimenting in video game design and making any simple video game projects to expand my expertise.
 
 <!---
