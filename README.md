@@ -1,8 +1,10 @@
-c[]_[]ↄ
+c◧‿◧ↄ
 
 My Name's Mustafa T.
-I am a skilled graphic designer and animator.
-I am also majoring in software engineering in UTM JB.
+
+I am majoring in software engineering in UTM JB.
+I am also a skilled graphic designer and animator.
+
 Im currently experimenting in video game design and making any simple video game projects to expand my expertise.
 
 <!---
